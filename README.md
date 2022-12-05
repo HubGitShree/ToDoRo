@@ -1,10 +1,17 @@
 # ToDoRo
 A minimalist to-do list website to keep track of your day-to-day tasks.
 
+## Student Details
+Registration Number: 2141016027
+Telegram username: EyeBagSoul
+
 ## Tech stack used
 This project relies heavily on node.js and ejs.   
 CSS is used for styling.  
 The UI design was inspired from templates on [dribbble.com](https://dribbble.com/).
+
+## Current features of the project
+The to-do list takes inputs from user and them to the list on pressing the '+' button. 
 
 ## Features intended to be implemented in the future versions
 ### A pomodoro timer
@@ -17,5 +24,6 @@ Currently, submitting an empty fill-in does not notify the user to 'Enter a vali
 
 I would gladly accept any suggestions or help on this project.
 Thank You:)
+
 
 
