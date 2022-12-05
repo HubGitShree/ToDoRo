@@ -2,7 +2,7 @@
 A minimalist to-do list website to keep track of your day-to-day tasks.
 
 ## Student Details
-Registration Number: 2141016027
+Registration Number: 2141016027  
 Telegram username: EyeBagSoul
 
 ## Tech stack used
